@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/freecodecamp_react/static/css/main.1797377b.css",
+    "main.js": "/freecodecamp_react/static/js/main.540bcb1a.js",
+    "static/media/profile.png": "/freecodecamp_react/static/media/profile.7c32438f48fb2510ecd1.png",
+    "static/media/Instagram_Icon.svg": "/freecodecamp_react/static/media/Instagram_Icon.c2916214877b68106481508eaba0e9d9.svg",
+    "static/media/GitHub_Icon.svg": "/freecodecamp_react/static/media/GitHub_Icon.45dd1bad787a953fa333b5c76b751aae.svg",
+    "static/media/Twitter_Icon.svg": "/freecodecamp_react/static/media/Twitter_Icon.d4f2bf6d8671dff888830735da01b95c.svg",
+    "static/media/linkedIn.svg": "/freecodecamp_react/static/media/linkedIn.16942bd590e1aa6dd0db7b5b2d668561.svg",
+    "static/media/Facebook_Icon.svg": "/freecodecamp_react/static/media/Facebook_Icon.2ab2e23893dc0656d11fbd5244228586.svg",
+    "index.html": "/freecodecamp_react/index.html",
+    "main.1797377b.css.map": "/freecodecamp_react/static/css/main.1797377b.css.map",
+    "main.540bcb1a.js.map": "/freecodecamp_react/static/js/main.540bcb1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1797377b.css",
+    "static/js/main.540bcb1a.js"
+  ]
+}
